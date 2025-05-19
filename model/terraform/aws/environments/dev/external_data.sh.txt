@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+SECRET_ID="terraform/aws/dev/credentials"
+output=$(aws secretsmanager get-secret-value --secret-id "$SECRET_ID" --query 'SecretString' --output text)
+echo "$output"

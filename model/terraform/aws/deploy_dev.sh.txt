@@ -1,0 +1,4 @@
+cd environments/dev
+export AWS_PROFILE=your-profile-name # Optional if you're using default profile
+terraform init
+terraform apply

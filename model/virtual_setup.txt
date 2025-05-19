@@ -1,0 +1,13 @@
+https://www.progress.com/blogs/installing-your-first-vagrant-box
+
+https://gist.github.com/sannae/d0db127dfa6a28c2ac4a4b4dd885e15c
+
+
+https://dev.to/sannae/setting-up-windows-virtual-test-environments-with-vagrant-4k1b
+
+https://everythingdevops.dev/how-to-set-up-a-linux-os-ubuntu-on-windows-using-virtualbox-and-vagrant/
+
+
+https://snowcodes.hashnode.dev/how-to-install-and-set-up-vagrant-on-windows-addressing-every-possible-problem
+
+https://www.msystechnologies.com/blog/how-to-use-vagrant-to-deploy-and-run-virtual-machine-in-no-time/

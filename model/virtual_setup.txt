@@ -17,3 +17,4 @@ https://github.com/brikis98?page=1&tab=repositories
 https://github.com/aws-samples/aws-control-tower-controls-terraform
 https://github.com/aws-samples/aws-control-tower-automate-account-creation
 https://github.com/aws-samples/aft-bootstrap-pipeline/tree/main/code/aft-setup/terraform
+https://github.com/aws-samples/control-tower-aft-with-eks-blueprints

@@ -18,3 +18,5 @@ https://github.com/aws-samples/aws-control-tower-controls-terraform
 https://github.com/aws-samples/aws-control-tower-automate-account-creation
 https://github.com/aws-samples/aft-bootstrap-pipeline/tree/main/code/aft-setup/terraform
 https://github.com/aws-samples/control-tower-aft-with-eks-blueprints
+
+https://github.com/aws-samples/aft-account-customizations-examples

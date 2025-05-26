@@ -15,3 +15,4 @@ https://www.msystechnologies.com/blog/how-to-use-vagrant-to-deploy-and-run-virtu
 https://github.com/brikis98?page=1&tab=repositories
 
 https://github.com/aws-samples/aws-control-tower-controls-terraform
+https://github.com/aws-samples/aws-control-tower-automate-account-creation

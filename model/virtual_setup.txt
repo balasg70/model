@@ -13,3 +13,5 @@ https://snowcodes.hashnode.dev/how-to-install-and-set-up-vagrant-on-windows-addr
 https://www.msystechnologies.com/blog/how-to-use-vagrant-to-deploy-and-run-virtual-machine-in-no-time/
 
 https://github.com/brikis98?page=1&tab=repositories
+
+https://github.com/aws-samples/aws-control-tower-controls-terraform

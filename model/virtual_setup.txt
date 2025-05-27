@@ -20,3 +20,11 @@ https://github.com/aws-samples/aft-bootstrap-pipeline/tree/main/code/aft-setup/t
 https://github.com/aws-samples/control-tower-aft-with-eks-blueprints
 
 https://github.com/aws-samples/aft-account-customizations-examples
+
+https://www.brainboard.co/cloud-architectures?cp=all-filters#templates-list
+
+
+https://app.brainboard.co/
+
+https://github.com/shuaibiyy/awesome-tf?tab=readme-ov-file
+

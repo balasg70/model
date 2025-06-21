@@ -1,0 +1,61 @@
+Control Tower sets up the landing zone 
+
+
+landing zone is a well-architected, multi-account environment that’s based on security and compliance 
+
+ AWS Single Sign-On (Identity provider..AD 
+
+AWS account
+---------
+AWS account must be subscribed to the following AWS services:
+Amazon Simple Storage Service (Amazon S3)
+Amazon Elastic Compute Cloud (Amazon EC2)
+Amazon SNS
+Amazon Virtual Private Cloud (Amazon VPC)
+AWS CloudFormation
+AWS CloudTrail
+Amazon CloudWatch
+AWS Config
+AWS Identity and Access Management (IAM)
+AWS Lambda
+
+
+AWS IAM Identity Center (IAM Identity Center) is already set up, the AWS Control Tower home Region must be the same as the IAM Identity Center Region.
+
+IAM Identity Center can be installed only in the management account of an organization.
+
+
+AWS Control Tower has the following features:
+
+Landing zone – A landing zone is a well-architected, multi-account environment that's based on security and compliance best practices. It is the enterprise-wide container that holds all of your organizational units (OUs), accounts, users, and other resources that you want to be subject to compliance regulation. A landing zone can scale to fit the needs of an enterprise of any size.
+
+Controls – A control (sometimes called a guardrail) is a high-level rule that provides ongoing governance for your overall AWS environment. It's expressed in plain language. Three kinds of controls exist: preventive, detective, and proactive. Three categories of guidance apply to controls: mandatory, strongly recommended, or elective. For more information about controls,
+
+Account Factory – An Account Factory is a configurable account template that helps to standardize the provisioning of new accounts with pre-approved account configurations. AWS Control Tower offers a built-in Account Factory that helps automate the account provisioning workflow in your organization. For more information,
+
+Dashboard – The dashboard offers continuous oversight of your landing zone to your team of central cloud administrators. Use the dashboard to see provisioned accounts across your enterprise, controls enabled for policy enforcement, controls enabled for continuous detection of policy non-conformance, and noncompliant resources organized by accounts and OUs.
+
+Automated account configuration: AWS Control Tower automates account deployment and enrollment by means of an Account Factory (or “vending machine”), which is built as an abstraction on top of provisioned products in AWS Service Catalog. The Account Factory can create and enroll AWS accounts, and it automates the process of applying controls and policies to those accounts. For more information about creating and provisioning accounts,
+
+Centralized governance: By employing the capabilities of AWS Organizations, AWS Control Tower sets up a framework that ensures consistent compliance and governance across your multi-account environment. The AWS Organizations service provides essential capabilities for managing a multi-account environment, including central governance and management of accounts, account creation from AWS Organizations APIs, service control policies (SCPs), and resource control policies (RCPs).
+
+Extensibility: You can build or extend your own AWS Control Tower environment by working directly in AWS Organizations, as well as in the AWS Control Tower console. You can see your changes reflected in AWS Control Tower after you register your existing organizations and enroll your existing accounts into AWS Control Tower. You can update your AWS Control Tower landing zone to reflect your changes. If your workloads require further advanced capabilities, you can leverage other AWS partner solutions along with AWS Control Tower.
+
+
+
+
+Multi account
+
+Security controls – Applications have different security profiles, so they require different control policies and mechanisms. For example, it’s far easier to talk to an auditor and point to a single account hosting the payment card industry (PCI) workload.
+
+Isolation – An account is a unit of security protection. Potential risks and security threats can be contained within an account without affecting others. Therefore, security needs may require you to isolate accounts from one another. For example, you may have teams with different security profiles.
+
+Many teams – Teams have different responsibilities and resource needs. By setting up multiple accounts, the teams cannot interfere with one another, as they might when using the same account.
+
+Data Isolation – Isolating data stores to an account helps limit the number of people who have access to data and can manage the data store. This isolation helps prevent unauthorized exposure of highly private data. For example, data isolation helps support compliance with the General Data Protection Regulation (GDPR).
+
+Business process – Business units or products often have completely different purposes and processes. Individual accounts can be established to serve business-specific needs.
+
+Billing – An account is the only way to separate items at a billing level, including things like transfer charges and so forth. The multi-account strategy helps create separate billable items across business units, functional teams, or individual users.
+
+Quota allocation – AWS quotas are set up on a per-account basis. Separating workloads into different accounts gives each account (such as a project) a well-defined, individual quota.

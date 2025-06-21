@@ -28,3 +28,4 @@ https://app.brainboard.co/
 
 https://github.com/shuaibiyy/awesome-tf?tab=readme-ov-file
 
+https://github.com/aws-ia/terraform-aws-control_tower_account_factory

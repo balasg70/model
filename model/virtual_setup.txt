@@ -31,3 +31,5 @@ https://github.com/shuaibiyy/awesome-tf?tab=readme-ov-file
 https://github.com/aws-ia/terraform-aws-control_tower_account_factory
 
 https://github.com/yeshwanthlm?tab=repositories
+
+https://github.com/jonas-werner/nc2-on-aws-dr-landing-zone

@@ -1,0 +1,63 @@
+
+Red Hat Advanced Cluster Management for Kubernetes 2.8 Support Matrix
+https://access.redhat.com/articles/7006295
+
+Understanding etcd and the tunables/conditions affecting performance
+https://access.redhat.com/articles/7010406
+
+Red Hat OpenShift Container Platform High Availability, and Recommended Practices
+https://access.redhat.com/articles/3221001
+
+Guidance for Red Hat OpenShift Container Platform Clusters - Deployments Spanning Multiple Sites(Data Centers/Regions)
+https://access.redhat.com/articles/3220991
+
+Tutorial on how to process vulnerability scans
+https://access.redhat.com/articles/red_hat_vulnerability_tutorial
+
+Pre-requisites to deploy OpenShift 4 using Assisted Installer with User-Managed Networking
+https://access.redhat.com/solutions/6984584
+
+Scale up procedure for OCP cluster installed with assisted installer
+https://access.redhat.com/solutions/6810751
+
+How to check if a cluster was installed using Assisted installer or Agent Based Installer?
+https://access.redhat.com/solutions/7052892
+
+
+Troubleshooting OpenShift Container Platform 4.x: UPI Installation
+https://access.redhat.com/articles/4292081
+
+OpenShift Container Platform 4 UPI: DNS Prerequisites before installation example.
+https://access.redhat.com/solutions/5899521
+
+How to determine the IP of the bootstrap node
+https://access.redhat.com/solutions/4079241
+
+Deploying Red Hat Advanced Cluster Security in ARO/ROSA
+https://access.redhat.com/articles/7030031
+
+What information do I need to gather for troubleshooting Red Hat Advanced Cluster Management?
+https://access.redhat.com/solutions/5126721
+
+
+
+[ACM] How to install Red Hat Advanced Cluster Management hub cluster on infrastructure nodes?
+https://access.redhat.com/solutions/6979444
+
+How to add clusters to ArgoCD using Openshift-GitOps - RHOCP4
+https://access.redhat.com/solutions/7043204
+
+Useful Documentation/Guide for RHOCP 4
+https://access.redhat.com/articles/6977880
+
+How to Collect Red Hat Advanced Cluster Management (ACM) Logs and Related FAQs
+https://access.redhat.com/articles/7132606
+
+How to Configure OpenShift on Bare Metal with Pre-existing NIC Bonds created.
+https://access.redhat.com/solutions/7131834
+
+adding workers to the OCP 4 IPI Bare Metal Cluster.
+https://access.redhat.com/solutions/5560761
+
+How to remove worker role from control plane in OpenShift 4?
+https://access.redhat.com/solutions/4564851

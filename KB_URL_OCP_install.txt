@@ -23,7 +23,6 @@ https://access.redhat.com/solutions/6810751
 How to check if a cluster was installed using Assisted installer or Agent Based Installer?
 https://access.redhat.com/solutions/7052892
 
-
 Troubleshooting OpenShift Container Platform 4.x: UPI Installation
 https://access.redhat.com/articles/4292081
 
@@ -61,3 +60,7 @@ https://access.redhat.com/solutions/5560761
 
 How to remove worker role from control plane in OpenShift 4?
 https://access.redhat.com/solutions/4564851
+
+OpenShift 4 cluster upgrade pre-checks requirements
+https://access.redhat.com/solutions/7004992
+
